@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World Leo!");
 		System.out.println("Hello World second time!");
 		System.out.println("Hello World third time!");
+		System.out.println("Updated and committed to GitHub!");
 		
 	}
 
